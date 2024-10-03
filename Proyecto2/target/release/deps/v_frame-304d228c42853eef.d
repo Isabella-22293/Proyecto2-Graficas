@@ -1,0 +1,11 @@
+D:\Documentos\Sexto semestre\Graficas\Proyecto2-Graficas\Proyecto2\target\release\deps\libv_frame-304d228c42853eef.rmeta: C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\lib.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\frame.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\math.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\pixel.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\plane.rs
+
+D:\Documentos\Sexto semestre\Graficas\Proyecto2-Graficas\Proyecto2\target\release\deps\libv_frame-304d228c42853eef.rlib: C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\lib.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\frame.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\math.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\pixel.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\plane.rs
+
+D:\Documentos\Sexto semestre\Graficas\Proyecto2-Graficas\Proyecto2\target\release\deps\v_frame-304d228c42853eef.d: C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\lib.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\frame.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\math.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\pixel.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\plane.rs
+
+C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\lib.rs:
+C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\frame.rs:
+C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\math.rs:
+C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\pixel.rs:
+C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\v_frame-0.3.8\src\plane.rs:

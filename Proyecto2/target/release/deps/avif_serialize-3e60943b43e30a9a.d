@@ -1,0 +1,10 @@
+D:\Documentos\Sexto semestre\Graficas\Proyecto2-Graficas\Proyecto2\target\release\deps\libavif_serialize-3e60943b43e30a9a.rmeta: C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avif-serialize-0.8.1\src\lib.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avif-serialize-0.8.1\src\boxes.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avif-serialize-0.8.1\src\constants.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avif-serialize-0.8.1\src\writer.rs
+
+D:\Documentos\Sexto semestre\Graficas\Proyecto2-Graficas\Proyecto2\target\release\deps\libavif_serialize-3e60943b43e30a9a.rlib: C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avif-serialize-0.8.1\src\lib.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avif-serialize-0.8.1\src\boxes.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avif-serialize-0.8.1\src\constants.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avif-serialize-0.8.1\src\writer.rs
+
+D:\Documentos\Sexto semestre\Graficas\Proyecto2-Graficas\Proyecto2\target\release\deps\avif_serialize-3e60943b43e30a9a.d: C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avif-serialize-0.8.1\src\lib.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avif-serialize-0.8.1\src\boxes.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avif-serialize-0.8.1\src\constants.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avif-serialize-0.8.1\src\writer.rs
+
+C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avif-serialize-0.8.1\src\lib.rs:
+C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avif-serialize-0.8.1\src\boxes.rs:
+C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avif-serialize-0.8.1\src\constants.rs:
+C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\avif-serialize-0.8.1\src\writer.rs:

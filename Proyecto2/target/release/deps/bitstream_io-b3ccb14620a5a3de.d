@@ -1,0 +1,10 @@
+D:\Documentos\Sexto semestre\Graficas\Proyecto2-Graficas\Proyecto2\target\release\deps\libbitstream_io-b3ccb14620a5a3de.rmeta: C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitstream-io-2.5.3\src/lib.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitstream-io-2.5.3\src\huffman.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitstream-io-2.5.3\src\read.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitstream-io-2.5.3\src\write.rs
+
+D:\Documentos\Sexto semestre\Graficas\Proyecto2-Graficas\Proyecto2\target\release\deps\libbitstream_io-b3ccb14620a5a3de.rlib: C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitstream-io-2.5.3\src/lib.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitstream-io-2.5.3\src\huffman.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitstream-io-2.5.3\src\read.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitstream-io-2.5.3\src\write.rs
+
+D:\Documentos\Sexto semestre\Graficas\Proyecto2-Graficas\Proyecto2\target\release\deps\bitstream_io-b3ccb14620a5a3de.d: C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitstream-io-2.5.3\src/lib.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitstream-io-2.5.3\src\huffman.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitstream-io-2.5.3\src\read.rs C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitstream-io-2.5.3\src\write.rs
+
+C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitstream-io-2.5.3\src/lib.rs:
+C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitstream-io-2.5.3\src\huffman.rs:
+C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitstream-io-2.5.3\src\read.rs:
+C:\Users\distelsa\.cargo\registry\src\index.crates.io-6f17d22bba15001f\bitstream-io-2.5.3\src\write.rs:
